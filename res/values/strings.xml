@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TIC_TAC_TOE_ANDROID</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_createroom">CREATE ROOM</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
